@@ -29,13 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/desktopscreen.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [interactive-card](https://hedize.github.io/interactive-card-details-form/)
 
 ## My process
 
@@ -67,8 +66,7 @@ if(Regex.test()){}
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [hedieh heidari](https://github.com/hedize)
+
 
 
